@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ljupcho-shemov.pages.dev/sitemap.xml
